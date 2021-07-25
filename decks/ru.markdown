@@ -20,7 +20,7 @@ Cards: 24570 (13967 nouns, 5948 adjectives, 4655 verbs)
 
 * Pronunciation by native speakers for most words
 * Definitions in both English and Russian (default is Russian)
-* Verbs have conjugations and stress
+* Verbs have the conjugation, (im)perfective pair, and stress
 
 ## Notes
 
