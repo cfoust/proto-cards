@@ -36,3 +36,15 @@ As a polyglot who aims to get started in a language as quickly as possible, I wa
 To create a new deck, I start by looking for word frequency lists. Often these come from institutions with departments that study the language and provide a [text corpus](https://en.wikipedia.org/wiki/Text_corpus) of the language in question. If I'm lucky, they offer a word frequency list tagged by part of speech.
 
 I process these word lists and augment them with data like definitions, conjugations, declensions, and native speaker pronunciation, then I build them into Anki decks with custom Python software.
+
+## License and distribution
+
+I couldn't decide whether to distribute these beyond my immediate friends for years because I don't own the rights to the definitions, sounds, and other material. I attempted to attribute information on data sources where applicable, though I may have missed something. These materials are provided as-is and are strictly for educational purposes. These decks are not for commercial use, nor have I made money off them.
+
+## Donations
+
+That being said, I have invested hundreds of hours creating these decks over the past decade. Donations are unnecessary but appreciated.
+
+* [Paypal](https://www.paypal.com/donate?business=WP2TJF2P42RHJ&no_recurring=0&item_name=Proto&currency_code=USD
+)
+* ETH (Coinbase or otherwise): `0x97C1F3b73df65492667D69355e226caE10B8162f`

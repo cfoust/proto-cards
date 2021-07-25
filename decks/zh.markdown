@@ -14,8 +14,7 @@ Cards: 20215 (9998 nouns, 2217 adjectives, 8000 verbs)
 <img width="200" src="/assets/IMG_5962.PNG"/>
 <img width="200" src="/assets/IMG_5966.PNG"/>
 
-[Download](http://example.com/){: .btn }
-[Download (no media)](http://example.com/){: .btn }
+[Download](https://drive.google.com/file/d/1WW6do0Qcgt4OKgFh5gCDGvUzpsTDdKKf/view?usp=sharing){: .btn }
 
 ## Features
 
@@ -24,6 +23,10 @@ Cards: 20215 (9998 nouns, 2217 adjectives, 8000 verbs)
 * Pronunciation by native speakers for ~60% of words
 * Definitions in English
 * Link that quickly searches the word in [Pleco](https://www.pleco.com/) (Note: I don't have an Android device, so I'm unsure this works there.)
+
+## Sources
+
+Word list source unknown. Definitions from . Audio from [Forvo](https://forvo.com/).
 
 ## Notes
 
