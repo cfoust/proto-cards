@@ -7,10 +7,8 @@ nav_order: 0
 layout: home
 ---
 
-Updated 2021-07-25
-{: .label }
-
-# Proto
+# Proto 
+#### Updated 2021-07-25
 
 <img width="200" src="/assets/IMG_5961.PNG"/>
 <img width="200" src="/assets/IMG_5962.PNG"/>
@@ -20,7 +18,7 @@ Updated 2021-07-25
 
 Proto is a suite of high quality flash card decks for use in [Anki](https://apps.ankiweb.net), [spaced-repetition](https://en.wikipedia.org/wiki/Spaced_repetition) software for building your vocabulary in foreign languages.
 
-The cards in Proto decks are divided into parts of speech (nouns, verbs, and adjectives) and are ordered by _decreasing occurrence in the language._ The first hundred words in each deck are the most common hundred words in that language, and so on. In other words, each new word you learn is slightly less useful than the last.
+The cards in Proto decks are divided into parts of speech (nouns, verbs, and adjectives) and are ordered by _decreasing frequency._ The first hundred words in each deck are the most common hundred words in that language, and so on. In other words, each new word you learn is slightly less useful than the last.
 
 Each card gives you a word and asks you to produce its definition. Generally, each card has the word's definition in English and a playable sound file with a native speaker pronouncing the word.
 
