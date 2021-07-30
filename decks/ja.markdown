@@ -5,14 +5,14 @@ title: Japanese
 permalink: /ja/
 ---
 
-#### Updated 2016-08-21
+#### Updated 2021-07-30
 # Japanese
 
 Cards: 29328 (24246 nouns, 623 adjectives, 4440 verbs)
 
 <img width="200" src="/assets/IMG_5965.PNG"/>
 
-[Download](https://drive.google.com/file/d/1d83Cwh42s1dzznqrClhsorJAT-11dhzr/view?usp=sharing){: .btn }
+[Download](https://drive.google.com/file/d/1SSFpPWs3Qwn5on4npifUTIRo8uaYD8vJ/view?usp=sharing){: .btn }
 
 ## Features
 
