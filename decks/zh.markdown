@@ -26,7 +26,7 @@ Cards: 20215 (9998 nouns, 2217 adjectives, 8000 verbs)
 
 ## Sources
 
-Word list source unknown. Definitions from . Audio from [Forvo](https://forvo.com/).
+Word list source unknown (definitions were included). Audio from [Forvo](https://forvo.com/).
 
 ## Notes
 
