@@ -14,7 +14,7 @@ Cards: 20215 (9998 nouns, 2217 adjectives, 8000 verbs)
 <img width="200" src="/assets/IMG_5962.PNG"/>
 <img width="200" src="/assets/IMG_5966.PNG"/>
 
-[Download](https://drive.google.com/file/d/1WW6do0Qcgt4OKgFh5gCDGvUzpsTDdKKf/view?usp=sharing){: .btn }
+[Download](https://proto-cards-site.s3.us-west-2.amazonaws.com/zh-1.0.0.apkg){: .btn }
 
 ## Features
 
