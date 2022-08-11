@@ -8,10 +8,7 @@ layout: home
 ---
 
 # Proto 
-#### Updated 2021-07-25
-
-<img width="200" src="/assets/IMG_5961.PNG"/>
-<img width="200" src="/assets/IMG_5962.PNG"/>
+#### Updated 2022-08-11
 
 
 ## What is this?

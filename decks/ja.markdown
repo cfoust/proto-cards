@@ -12,7 +12,7 @@ Cards: 29328 (24246 nouns, 623 adjectives, 4440 verbs)
 
 <img width="200" src="/assets/IMG_5965.PNG"/>
 
-[Download](https://proto-cards-site.s3.us-west-2.amazonaws.com/ja-1.0.1.apkg){: .btn }
+[Download](https://static.proto.cards/ja-1.0.1.apkg){: .btn }
 
 ## Features
 
