@@ -1,7 +1,7 @@
 ---
 layout: page
-parent: Languages
 title: Mandarin Chinese
+nav_order: 2
 permalink: /zh/
 ---
 

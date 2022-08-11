@@ -1,7 +1,7 @@
 ---
 layout: page
-parent: Languages
 title: Spanish
+nav_order: 4
 permalink: /es/
 ---
 

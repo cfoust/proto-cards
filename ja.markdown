@@ -1,7 +1,7 @@
 ---
 layout: page
-parent: Languages
 title: Japanese
+nav_order: 1
 permalink: /ja/
 ---
 

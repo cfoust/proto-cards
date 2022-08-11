@@ -10,7 +10,6 @@ layout: home
 # Proto 
 #### Updated 2022-08-11
 
-
 ## What is this?
 
 Proto is a suite of high quality flash card decks for use in [Anki](https://apps.ankiweb.net), [spaced-repetition](https://en.wikipedia.org/wiki/Spaced_repetition) software for building your vocabulary in foreign languages.

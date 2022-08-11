@@ -1,7 +1,7 @@
 ---
 layout: page
-parent: Languages
 title: Russian
+nav_order: 3
 permalink: /ru/
 ---
 
